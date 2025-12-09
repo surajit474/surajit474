@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**surajit474/surajit474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building Android apps, working with Python/FastAPI, and customizing my workflow on Arch Linux + Hyprland.
 
-Here are some ideas to get you started:
+🔧 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android development with Jetpack Compose
+
+FastAPI-based backend projects
+
+Tweaking Linux environments & performance setups
+
+Setting up Ubantu Server
+
+🛠️ Tools & Technologies
+
+Languages: Kotlin, Python, C++, 
+
+Frameworks: FastAPI, Jetpack Compose
+
+Tools: Git, Docker, Linux (Arch), Hyprland, VS Code, Android Studio
+
+📬 Reach Me
+
+Email: surajitjinder@gmail.com
+
+GitHub: github.com/surajit474
