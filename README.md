@@ -10,7 +10,7 @@ FastAPI-based backend projects
 
 Tweaking Linux environments & performance setups
 
-Setting up Ubantu Server
+Setting up Ubuntu Server
 
 🛠️ Tools & Technologies
 
