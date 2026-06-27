@@ -82,7 +82,7 @@ data class Developer(
 <img src="https://github-readme-stats.vercel.app/api?username=surajit474&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=F1F5F9&ring_color=7C3AED" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajit474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=F1F5F9&langs_count=6" height="165"/>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajit474&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F1F5F9&sideLabels=F1F5F9&dates=888" height="165"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajit474&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F1F5F9&sideLabels=F1F5F9&dates=888" height="165"/> 
 
 <img src="https://github-profile-trophy.vercel.app/?username=surajit474&theme=tokyonight&no-frame=true&column=6&margin-w=4&margin-h=4" width="100%"/>
 
