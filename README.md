@@ -15,7 +15,7 @@
 
 ```kotlin
 data class Developer(
-    val name: String    = "Surajit Jinder",
+    val name: String    = "Surajit",
     val focus: List<String> = listOf(
         "Android (Jetpack Compose)",
         "FastAPI backends",
