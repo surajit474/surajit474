@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surajit%20Jinder&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20that%20run%20on%20servers%2C%20phones%20and%20bare%20metal&descSize=14&descAlignY=55&descColor=aaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surajit%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20that%20run%20on%20servers%2C%20phones%20and%20bare%20metal&descSize=14&descAlignY=55&descColor=aaa" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Android+%7C+FastAPI+%7C+Linux+%7C+Docker;Kotlin+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Jetpack+Compose)](https://git.io/typing-svg)
